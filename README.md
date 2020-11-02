@@ -13,6 +13,10 @@ Tarefa 1 :
 - Abrir o arquivo rar de API e iniciar-lo através do terminal com o comando  "node src/main.js"
 - Confirmar no terminal que o servidor foi criado.
 
+<p align="center">
+  <img src="figura1.png" >
+</p>
+
 Tarefa 2:
 - Abrir os aquivos da pasta  my-app/src no react, logo em seguida iniciar-lo através do terminal com o comando "npm start"
 - Primeiramente registrar um usuário qualquer na página de registro
