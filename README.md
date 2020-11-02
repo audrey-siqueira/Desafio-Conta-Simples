@@ -23,7 +23,9 @@ Tarefa 2:
   <img src="figura2.png" >
 </p>
 
-- Primeiramente registrar um usuário qualquer na página de registro
+- Primeiramente registrar um usuário qualquer na página de registro, http://localhost:3000/register  . São 4 campos , o primeiro Nome, o segundo sobrenome, o terceiro email, o quarto senha.
+
+
 - Logo em seguida ir para a página de Login e entrar com os dados préviamente cadastrados para fazer a autenticação.
 - Feito o login com sucesso, a página renderizada pelo arquivo transferencias.js vai abrir com todos os dados da empresa e seu histórico de transferências .
 
