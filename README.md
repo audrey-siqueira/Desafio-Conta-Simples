@@ -19,6 +19,10 @@ Tarefa 1 :
 
 Tarefa 2:
 - Abrir os aquivos da pasta  my-app/src no react, logo em seguida iniciar-lo através do terminal com o comando "npm start"
+<p align="center">
+  <img src="figura2.png" >
+</p>
+
 - Primeiramente registrar um usuário qualquer na página de registro
 - Logo em seguida ir para a página de Login e entrar com os dados préviamente cadastrados para fazer a autenticação.
 - Feito o login com sucesso, a página renderizada pelo arquivo transferencias.js vai abrir com todos os dados da empresa e seu histórico de transferências .
