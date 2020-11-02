@@ -30,7 +30,12 @@ Tarefa 2:
 </p>
 
 
-- Logo em seguida ir para a página de Login e entrar com os dados préviamente cadastrados para fazer a autenticação.
+- Logo em seguida ir para a página de Login e entrar com os dados préviamente cadastrados de email e senha respectivamente para fazer a autenticação.
+
+<p align="center">
+  <img src="figura4.png" >
+</p>
+
 - Feito o login com sucesso, a página renderizada pelo arquivo transferencias.js vai abrir com todos os dados da empresa e seu histórico de transferências .
 
 
