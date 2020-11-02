@@ -36,10 +36,21 @@ Tarefa 2:
   <img src="figura4.png" >
 </p>
 
-- Feito o login com sucesso, a página renderizada pelo arquivo transferencias.js vai abrir com todos os dados da empresa e seu histórico de transferências .
+- Feito o login com sucesso, a página renderizada pelo arquivo transferencias.js vai abrir com todos os dados da empresa e seu histórico de transferências . As figuras abaixo representam rspectivamente o usuário 1 , 2 e 3. Para o usuário 3 apenas foram fornecidos os dados porém o histórico de compras está em branco.
+
+<p align="center">
+  <img src="figura5.png" >
+</p>
 
 
 
+<p align="center">
+  <img src="figura6.png" >
+</p>
+
+<p align="center">
+  <img src="figura7.png" >
+</p>
 
 
 3- A organização do código foi feita de modo a tentar deixa-lo o mais conciso possível, principalmente o que se reenderiza na tela foi distribuido em apenas 3 arquivos js, 1 para Login, 1 para Registro e o principal com todas as tarefas pedidas pelo desafio que se encontram no arquivo transferencias.js
