@@ -2,9 +2,26 @@
 
 O Desafio consistiu em elaborar um online banking tentando seguir as ferramentas e tarefas listadas como pré requisitos.
 
+
 1- O Desafio escolhido foi o Front-End, sendo necesário o conhecimento de algumas atividades que não eram de minha rotina, precisando de um auto-aprendizado principalmente em Node js e no React, alguns onceitos em JSON e também um maior entendimento da parte de como levantar um servidor e fazer a renderização da forma como foi pedida as tarefas pelo desafio.
 
 2- Desenvolvendo o Front-End tinha dúvidas de como fazer a autenticação e me interessei em tentar criar uma API para basear meu portal de Login/Registro e dar acesso aos usuários do banco, como o desafio apenas pediu para a integração com o Banco de dados ser "mockada", acredito que isso foi uma tarefa que fiz a mais do combinado.
+
+Passo a passo para rodar o programa:
+
+Tarefa 1 :
+- Abrir o arquivo rar de API e iniciar-lo através do terminal com o comando  "node src/main.js"
+- Confirmar no terminal que o servidor foi criado.
+
+Tarefa 2:
+- Abrir os aquivos da pasta  my-app/src no react, logo em seguida iniciar-lo através do terminal com o comando "npm start"
+- Primeiramente registrar um usuário qualquer na página de registro
+- Logo em seguida ir para a página de Login e entrar com os dados préviamente cadastrados para fazer a autenticação.
+- Feito o login com sucesso, a página renderizada pelo arquivo transferencias.js vai abrir com todos os dados da empresa e seu histórico de transferências .
+
+
+
+
 
 3- A organização do código foi feita de modo a tentar deixa-lo o mais conciso possível, principalmente o que se reenderiza na tela foi distribuido em apenas 3 arquivos js, 1 para Login, 1 para Registro e o principal com todas as tarefas pedidas pelo desafio que se encontram no arquivo transferencias.js
 
