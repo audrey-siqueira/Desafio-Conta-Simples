@@ -48,7 +48,7 @@ Tarefa 2:
 </p>
 
 <p align="center">
-  <img src="figura7.png" >
+  <img src="figura77.png" >
 </p>
 
 
