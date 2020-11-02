@@ -68,3 +68,5 @@ Tarefa 2:
 
 10- A partir do momento que o cliente faz a autenticação, tentei deixar todas as tarefas pedidas renderizadas na mesma página justamente para facilitar a experiência do usuário.
 Tudo que foi pedido é encontrado facilmente através de uma tabela com filtros por todos os tópicos.
+
+Foi concluído que o programa obteve sucesso em realizar quase todos requisitos de forma clara e concisa mas ainda não se encontra pronto para rodar em produção, faltando passar por testes, eliminar as vulnerabilidades e terminar 100% as tarefas exigidas.
